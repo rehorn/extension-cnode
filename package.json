@@ -1,6 +1,6 @@
 {
     "name": "extension-cnode",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "JavaScript Custom Cnode Extensions.",
     "main": "index.js",
     "dependencies": {},
