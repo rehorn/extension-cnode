@@ -1,0 +1,26 @@
+{
+    "name": "extension-cnode",
+    "version": "0.0.1",
+    "description": "JavaScript Custom Cnode Extensions.",
+    "main": "index.js",
+    "dependencies": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rehorn/extension-cnode.git"
+    },
+    "keywords": [
+        "gulpplugin",
+        "extension-cnode"
+    ],
+    "author": "rehornchen@tencent.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rehorn/extension-cnode/issues"
+    },
+    "engines": {
+        "node": ">=0.8"
+    }
+}
